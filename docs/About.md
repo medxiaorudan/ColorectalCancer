@@ -1,17 +1,19 @@
-The code for this app is [available on github](https://github.com/medxiaorudan/ColorectalCancer).
+# Questions
 
-+ According to the National Cancer Center, the annual incidence of colorectal cancer in China is 17.8 / 100,000 (male 20.2 / 100,000, female 15.2 / 100,000).
+## **If you meet errors when you run the code, please check them from the following aspects:**
 
-+ The occurrence of colorectal cancer by diet, lifestyle, hormone levels, genetic factors such as the impact.
+### Notice the specific directory of your own files and change them in ui.R and server.R !
 
-+ Through the study of the literature summarizes a large number of population research results, we chose to Chinese population as the research object to select the susceptibility of genetic loci to assess the genetic risk of colorectal cancer.
+### Your own data set must put in data folder !
 
-+ Follow the example file instructions to submit the relevant genetic information, you can quickly calculate the genetic risk of colorectal cancer.
+### The code for this app is available on github (https://github.com/medxiaorudan/ColorectalCancer).
 
-Author:
-+ <a href="http://www.big.ac.cn/yjdw/kyxmz/200907/t20090723_2185492.html" target=" blank">Fang's lab</a>
+# About us
 
-Other Projects:
-+ <a href="https://medxiaorudan.shinyapps.io/colorectalcancer/" target=" blank">Projects</a>
+## **Authors:**
 
+### Xiangdong Fang, Rudan Xiao, Yunxiao Ren, Bingbing Xie
 
+# Acknoledgement
+
+### Thanks for all members in [Fang's lab](http://www.big.ac.cn/yjdw/kyxmz/200907/t20090723_2185492.html), everyone is involved in the work of genetic risk assessment website.
