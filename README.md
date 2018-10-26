@@ -12,5 +12,5 @@
 - ### If the user uploads a VCF file that does not contain a risk site in the colorectal cancer-related risk locus library, the system will prompt the user that the document passed does not contain colorectal cancer-related sites.
 ![upload5](https://github.com/medxiaorudan/ColorectalCancer/blob/master/image/upload5.png)
 ## **About page**
-- ### This page shows considerations, Github code links, author information, and lab links.
+- ### This page shows questions, github links, author information and lab links.
 ![upload7](https://github.com/medxiaorudan/ColorectalCancer/blob/master/image/upload7.png)
