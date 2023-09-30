@@ -1,4 +1,6 @@
 ## **The system consists of three pages: the Home page, the Upload page and the About page.**
+## **Introduction**
+We have established a website for genetic risk assessment related to colorectal cancer. Using population cohort research methods, we compare the genetic information characteristics of patients and control populations and identify gene loci related to the occurrence of the disease. It can parse the gene mutation information submitted by users and return colorectal cancer risk assessment. It can be used for colorectal cancer genetic risk assessment, targeted drug selection, etc.
 ## **Home page**
 - ### The page consists of three main parts: disease background, system overview and overall structural process. 
 ![overview](https://github.com/medxiaorudan/ColorectalCancer/blob/master/image/overview.png)
