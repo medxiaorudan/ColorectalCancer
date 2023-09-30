@@ -20,3 +20,8 @@ The home page is organized into three main sections:
 - Post VCF file submission, users can discern their genetic standing within the thousand human genomes, obtain the OR value, and comprehend their relative genetic risk. The ensuing illustration denotes the relative genetic risk of colorectal cancer. The blue arrow signifies the user's relative genetic risk within the thousand human genomes, the curve represents the genetic risk across these genomes, with the horizontal axis depicting the normalized natural log of the relative risk OR, and the vertical axis showing the population probability density corresponding to the OR value.
 
 - If a user uploads a VCF file lacking a risk site within the colorectal cancer-related risk locus database, they'll receive a notification emphasizing the absence of relevant colorectal cancer sites.
+
+## Example of a high risk result
+
+![image](https://github.com/medxiaorudan/ColorectalCancer/assets/22127304/30176ab3-145a-413d-8344-c43023a51e96)
+
